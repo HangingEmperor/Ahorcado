@@ -10,5 +10,5 @@ Ademas de ello puedes cambiar el archivo para colocar tus propias palabras!,
 puedes hacerlo desde la misma documento o entrando a la configuracion del juego
 y podras hacer los cambios para colocar la palabra que tu gustes.
 
-<img src="https://github.com/HangingEmperor/Ahorcado/blob/master/screenShotMainGame.PNG?raw=true>
-<img src="https://github.com/HangingEmperor/Ahorcado/blob/master/screenShotChangeGame.PNG?raw=true>
+<img src="https://github.com/HangingEmperor/Ahorcado/blob/master/screenShotMainGame.PNG?raw=true">
+<img src="https://github.com/HangingEmperor/Ahorcado/blob/master/screenShotChangeGame.PNG?raw=true">
